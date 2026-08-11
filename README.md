@@ -1,5 +1,5 @@
 <p align="center"><img src="./assets/65ff25ffbe3786b2de094f7051bbd873.gif" width="720"></p>
-<h1 align="center">Olá, eu sou o Hookr4kks 👋</h1>
+<h1 align="center">Hello world</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&background=17171700&center=true&vCenter=true&width=500&lines=Building+NucleaAI+%F0%9F%A7%A0;Educational+AI+in+Portuguese;Focused+on+dark%2C+expressive+UI" />
@@ -7,12 +7,12 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 NucleaAI</h3>
+      <h3>NucleaAI</h3>
       <p>Assistente educacional em português, com IA integrada via Mistral API.</p>
       <ul>
         <li>Aplicação single-file em HTML, deployada na Vercel</li>
@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ SafeHer</h3>
+      <h3>SafeHer</h3>
       <p>App de segurança para mulheres, com foco em acolhimento e resposta rápida.</p>
       <ul>
         <li>Autenticação real com Firebase (e-mail/senha + Google)</li>
