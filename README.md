@@ -45,35 +45,9 @@
   <img src="https://img.shields.io/badge/Mistral_AI-171717?style=for-the-badge&logo=mistralai&logoColor=8B5CF6" />
 </p>
 
----
-
-### 📊 Stats
+-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hookr4kks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=171717&title_color=ffffff&text_color=c9c9c9&icon_color=8b5cf6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hookr4kks&layout=compact&theme=tokyonight&hide_border=true&bg_color=171717&title_color=ffffff&text_color=c9c9c9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hookr4kks&theme=tokyonight&hide_border=true&background=171717&stroke=262626&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff" width="90%" />
-</p>
-
----
-
-### 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hookr4kks/Hookr4kks/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</p>
-
-<!--
-  A imagem acima só aparece depois que a GitHub Action (snake.yml) rodar
-  pela primeira vez neste repositório. Veja instruções no final.
--->
-
----
-
-<p align="center">
-  <sub>Feito com tema escuro e café ☕ — sempre iterando.</sub>
+  <sub>Feito com análise profunda e energético— sempre iterando.</sub>
 </p>
 
