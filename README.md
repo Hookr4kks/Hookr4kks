@@ -1,1 +1,1 @@
-![banner](./assets/download.jpg)
+![banner](./assets/download_lol.jpg)
