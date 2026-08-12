@@ -5,14 +5,6 @@
 <h1 align="center">Welcome to Hookr4kks's Github</h1>
 <p align="center">&lt;/&gt;</p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-000000?style=flat-square&logo=codechef&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pinterest-000000?style=flat-square&logo=pinterest&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Chess.com-000000?style=flat-square&logo=chess.com&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 📌 About me
