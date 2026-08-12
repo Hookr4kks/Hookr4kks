@@ -19,7 +19,7 @@
       </ul>
     </td>
     <p width="100%" align="center">
-      <img src="./assets/lol.jpg" width="100" />
+      <img src="./assets/lol.jpg" width="1000" />
     </p>
   </tr>
 </div>
