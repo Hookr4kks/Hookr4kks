@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td width="30%" align="center">
-      <img src="./assets/icon.jpg" width="180" />
+      <img src="./assets/lol.jpg" width="180" />
     </td>
   </tr>
 </div>
