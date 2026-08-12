@@ -19,7 +19,7 @@
       </ul>
     </td>
     <p width="100%" align="center">
-      <img src="./assets/ascii.png" width="1000" />
+      <img src="./assets/asciil.png" width="1000" />
     </p>
   </tr>
 </div>
