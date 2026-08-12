@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="./assets/ascii.png" width="100%" />
+  <img src="./assets/65ff25ffbe3786b2de094f7051bbd873.gif" width="100%" />
 </p>
 
 <h1 align="center">Welcome to Hookr4kks's Github</h1>
 <p align="center">&lt;/&gt;</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-000000?style=flat-square&logo=codechef&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pinterest-000000?style=flat-square&logo=pinterest&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chess.com-000000?style=flat-square&logo=chess.com&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -12,13 +20,12 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      Olá! Eu sou o <b>Hookr4kks</b>, e curto aprender novas tecnologias e resolver problemas construindo projetos com propósito.
-      <br><br>
-      Atualmente estou trabalhando em:
+      Olá! Eu sou o <b>Hookr4kks</b>, e curto aprender novas tecnologias e resolver problemas colocando em prática pequenos e divertidos projetos usando JavaScript, HTML, CSS e mais.
       <ul>
-        <li>🧠 <b>NucleaAI</b> — assistente educacional em português, com IA integrada</li>
-        <li>🛡️ <b>SafeHer</b> — app de segurança pra mulheres, com autenticação e sincronização em nuvem</li>
-        <li>🎨 Interfaces escuras, minimalistas, com identidade visual própria</li>
+        <li>🎓 Estudando na [SUA UNIVERSIDADE/CURSO]</li>
+        <li>👨‍🏫 Tutor particular de [SUA ÁREA]</li>
+        <li>🏆 Competidor em [SUA COMPETIÇÃO]</li>
+        <li>♟️ Chess Player</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -32,13 +39,22 @@
 ### 🛠️ Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -46,10 +62,10 @@
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hookr4kks&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=8b5cf6&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hookr4kks&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kks&theme=github_dark" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Hookr4kks&theme=dark&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hookr4kks&theme=dark&hide_border=true&background=0d0d0d&stroke=1c1c1c&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hookr4kks&theme=github-dark&hide_border=true&area=true" width="95%" />
 </p>
