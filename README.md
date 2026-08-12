@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/asciil.png" width="100%" />
+  <img src="./assets/lol.jpg" width="100%" />
 </p>
 
 <h1 align="center">Welcome to Hookr4kks's Github</h1>
@@ -19,7 +19,7 @@
       </ul>
     </td>
     <p width="100%" align="center">
-      <img src="./assets/lol.jpg" width="1000" />
+      <img src="./assets/ascii.png" width="1000" />
     </p>
   </tr>
 </div>
