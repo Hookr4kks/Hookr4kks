@@ -9,7 +9,7 @@
 <div
   <tr>
     <td width="70%" valign="top">
-      Olá! Eu sou o <b>Hookr4kks</b>, e curto aprender novas tecnologias e resolver problemas colocando em prática pequenos e divertidos projetos usando JavaScript, HTML, CSS e mais.
+      dae eu sou o <b>Marlon</b>, e curto aprender novas tecnologias e entregar meu máximo sempre, logicamente, colocando em prática meu pequeno conhecimento em JavaScript, HTML, CSS e mais.
       <ul>
         <li>🎓 Estudando no CEDUP Renato Ramos</li>
         <li>🦅 Vai corinthians</li>
