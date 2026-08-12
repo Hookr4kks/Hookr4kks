@@ -22,10 +22,8 @@
     <td width="70%" valign="top">
       Olá! Eu sou o <b>Hookr4kks</b>, e curto aprender novas tecnologias e resolver problemas colocando em prática pequenos e divertidos projetos usando JavaScript, HTML, CSS e mais.
       <ul>
-        <li>🎓 Estudando na [SUA UNIVERSIDADE/CURSO]</li>
-        <li>👨‍🏫 Tutor particular de [SUA ÁREA]</li>
-        <li>🏆 Competidor em [SUA COMPETIÇÃO]</li>
-        <li>♟️ Chess Player</li>
+        <li>🎓 Estudando no CEDUP Renato Ramos</li>
+        <li>🦅 Vai corinthians</li>
       </ul>
     </td>
     <td width="30%" align="center">
