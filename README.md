@@ -13,7 +13,7 @@
       <ul>
         <li>🎓 Estudando no CEDUP Renato Ramos</li>
         <li>🦅 Vai corinthians</li>
-        <li></li>
+      
       </ul>
     </td>
     <p width="100%" align="center">
