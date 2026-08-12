@@ -3,12 +3,9 @@
 </p>
 <h1 align="center">Welcome to Hookr4kks's Github</h1>
 <p align="center">&lt;/&gt;</p>
-
 ---
-
 ### 📌 About me
-
-<table>
+<div
   <tr>
     <td width="70%" valign="top">
       Olá! Eu sou o <b>Hookr4kks</b>, e curto aprender novas tecnologias e resolver problemas colocando em prática pequenos e divertidos projetos usando JavaScript, HTML, CSS e mais.
@@ -17,16 +14,13 @@
         <li>🦅 Vai corinthians</li>
       </ul>
     </td>
-    <td width="30%" align="center">
-      <img src="./assets/asciil.png" width="180" />
-    </td>
+    <p width="100%" align="center">
+      <img src="./assets/asciil.png" width="1000" />
+    </p>
   </tr>
-</table>
-
+</div>
 ---
-
 ### 🛠️ Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,16 +29,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" />
 </p>
-
 ---
-
 ### 📊 Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kks&theme=github_dark&icon_color=ffffff&text_color=ffffff&title_color=ffffff" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Hookr4kks&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hookr4kks&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kks&theme=github_dark&icon_color=ffffff&text_color=ffffff&title_color=ffffff" width="48%" /> <img src="https://streak-stats.demolab.com/?user=Hookr4kks&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hookr4kks&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" /> </p>
