@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/93e75560ea51cc2537607cf67cabae74.jpg" width="100%" />
+  <img src="./assets/ascii.png" width="100%" />
 </p>
 
 <h1 align="center">Welcome to Hookr4kks's Github</h1>
