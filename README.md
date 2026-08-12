@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/_-_𝑬𝒍𝒆𝒈𝒊 𝒍𝒐 𝒒𝒖𝒆 𝒎𝒆 𝒉𝒂𝒄𝒊𝒂….jpg" width="100%" />
+  <img src="./assets/1012817403715294516.jpg" width="100%" />
 </p>
 
 <h1 align="center">Welcome to Hookr4kks's Github</h1>
