@@ -18,7 +18,7 @@
         <li>🦅 Vai corinthians</li>
       </ul>
     </td>
-    <td width="30%" align="center">
+    <td width="100%" align="center">
       <img src="./assets/lol.jpg" width="180" />
     </td>
   </tr>
