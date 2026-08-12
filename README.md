@@ -5,6 +5,7 @@
 <p align="center">&lt;/&gt;</p>
 ---
 📌 About me
+
 <div
   <tr>
     <td width="70%" valign="top">
@@ -12,6 +13,7 @@
       <ul>
         <li>🎓 Estudando no CEDUP Renato Ramos</li>
         <li>🦅 Vai corinthians</li>
+        <li></li>
       </ul>
     </td>
     <p width="100%" align="center">
@@ -21,6 +23,7 @@
 </div>
 ---
 🛠️ Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,6 +34,7 @@
 </p>
 ---
 📊 Statistics
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kks&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
   
