@@ -9,13 +9,23 @@
 
 ### 📌 About me
 
-Olá! Eu sou o **Hookr4kks**, e curto aprender novas tecnologias e resolver problemas construindo projetos com propósito.
-
-Atualmente estou trabalhando em:
-
-- 🧠 **NucleaAI** — assistente educacional em português, com IA integrada
-- 🛡️ **SafeHer** — app de segurança pra mulheres, com autenticação e sincronização em nuvem
-- 🎨 Interfaces escuras, minimalistas, com identidade visual própria
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      Olá! Eu sou o <b>Hookr4kks</b>, e curto aprender novas tecnologias e resolver problemas construindo projetos com propósito.
+      <br><br>
+      Atualmente estou trabalhando em:
+      <ul>
+        <li>🧠 <b>NucleaAI</b> — assistente educacional em português, com IA integrada</li>
+        <li>🛡️ <b>SafeHer</b> — app de segurança pra mulheres, com autenticação e sincronização em nuvem</li>
+        <li>🎨 Interfaces escuras, minimalistas, com identidade visual própria</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="./assets/ascii.png" width="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,8 +46,8 @@ Atualmente estou trabalhando em:
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hookr4kks&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=8b5cf6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hookr4kks&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hookr4kks&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=8b5cf6&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hookr4kks&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
