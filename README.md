@@ -21,8 +21,7 @@
     </p>
   </tr>
 </div>
----
-🛠️ Technologies
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -32,8 +31,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" />
 </p>
----
-📊 Statistics
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kk&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
