@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kk &theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kk&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
   
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hookr4kk&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" />
