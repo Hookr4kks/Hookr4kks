@@ -42,3 +42,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph-pi-sooty.vercel.app/graph?username=Hookr4kks&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" />
 </p>
+
+<p align="center">
+  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-marlonflgodoi4?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  </a>
+</p>
