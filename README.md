@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Hookr4kks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
+  <img src="https://github-readme-stats-two-mocha.vercel.app/api?username=Hookr4kks&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" width="48%" />
 </p>
 
 <p align="center">
