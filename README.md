@@ -31,9 +31,6 @@
   <img src="https://img.shields.io/badge/Mistral_AI-000000?style=for-the-badge&logo=mistralai&logoColor=white" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kks&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-two-mocha.vercel.app/api?username=Hookr4kks&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" width="48%" />
