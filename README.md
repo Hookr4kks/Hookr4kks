@@ -35,7 +35,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hookr4kks&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&chart_color=ffffff&border_color=ffffff" width="48%" />
 </p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Hookr4kksE&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?username=Hookr4kksE&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" /> </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph-pi-sooty.vercel.app/graph?username=Hookr4kks&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" />
