@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Welcome to Hookr4kk's Github</h1>
-<p align="center">&lt;/&gt;</p>
+
 
 ---
 
