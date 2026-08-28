@@ -2,9 +2,9 @@
   <img src="./assets/78e677384a1b99ad26af270b756dde17.gif" width="100%" />
 </p>
 
-<h3 align="center">Welcome to Hookr4kk's Github</h3>
+<h1 align="center">Welcome to Hookr4kk's Github</h1>
 <p align="center">&lt;/&gt;</p>
-
+---
 📌 About me
 
 <div>
