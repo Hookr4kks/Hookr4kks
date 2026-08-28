@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hookr4kks&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=Hookr4kks&theme=github-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true" width="95%" />
 </p>
