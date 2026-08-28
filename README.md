@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hookr4kks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Hookr4kks&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
 </p>
 
 <p align="center">
